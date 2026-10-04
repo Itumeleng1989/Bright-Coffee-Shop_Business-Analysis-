@@ -5,7 +5,7 @@ Key Insights
 
 Revenue performance: 15% MoM Growth
 
-Transaction performance: 15$ MoM Growth
+Transaction performance: 15% MoM Growth
 
 Average transaction value: R4.18
 
