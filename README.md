@@ -1,12 +1,16 @@
 # Bright-Coffee-Shop_Business-Analysis-
 Data-driven Insights For Revenue Growth And Product Performance
 
-Purpose
+Key Insights 
 
 Revenue performance: 15% MoM Growth
+
 Transaction performance: 15$ MoM Growth
+
 Average transaction value: R4.18
+
 Top revenue-generating product category: Coffee (Baristo Expresso)
+
 Highest sales period (Day/Time of Date): Monday/Morning
 
 Key message: 
